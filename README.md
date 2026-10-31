@@ -1,6 +1,6 @@
 Olá! Eu sou Bruno Rodrigues Ribeiro 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNICID.
+🎓 Estudante de Ciências da Computação na UNICID.
 
 💻 Estou iniciando minha jornada na área de Tecnologia da Informação.
 
